@@ -1,5 +1,5 @@
 # PNG Strips MultiThreading
-Use MultiThreading to combine 50 PNG "Strips" from online into a proper image<br/><br/>
+Use MultiThreading to combine 50 PNG "Strips" from a website into a proper image<br/><br/>
 
 paster : contains the multi-threading logic and calls other class's methods to combine the PNG Strips <br/>
 catpng : contains the methods that break PNG data into struct format and combines them <br/>
