@@ -1,4 +1,4 @@
-# ECE_252_Lab_MultiThreading
+# PNG Strips MultiThreading
 Use MultiThreading to combine 50 PNG "Strips" from online into a proper image<br/><br/>
 
 paster : contains the multi-threading logic and calls other class's methods to combine the PNG Strips <br/>
